@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Advice generator app</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="advice-section">
+    <div id="advice-id">
+       Advice #
+    </div>
+    <div id="advice-text">
+      "<!-- Advice text goes here -->"
+    </div>
+    <div id="current-loading" class="loading-overlay hidden">
+      <div class="loading-dots">
+        <span></span><span></span><span></span>
+      </div>
+      <div class="loading-text">Loading...</div>
+    </div>
+    <picture class="pattern-divider">
+          <source media="(min-width: 600px)" srcset="./images/pattern-divider-desktop.svg">
+          <img src="./images/pattern-divider-mobile.svg" alt="divider">
+        </picture>
+    <button class="dice-button">
+      <img src="./images/icon-dice.svg" alt="Dice Icon">
+    </button>
+  </div>
+
+
+  
+  <script src="script.js"></script>
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/ruqiash12-oss">Ruqia Al sheikha</a>.
+  </footer>
+</body>
+</html>
