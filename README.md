@@ -6,7 +6,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,16 +26,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
 
-![](./screenshot.jpg)
-
-> Replace `screenshot.jpg` with an actual screenshot of your solution (or remove this section if you prefer).
 
 ### Links
 
-- Solution URL: (add your Frontend Mentor solution link here)
-- Live Site URL: (add your live site link here)
+- Solution URL: https://www.frontendmentor.io/solutions/advice-generator-app-_T1_AfvdZD
+- Live Site URL: https://ruqiash12-oss.github.io/Advice-generator-app/
 
 ## My process
 
@@ -112,7 +107,6 @@ I used AI tools to support development and learning during this project:
 
 - Frontend Mentor - [@ruqiash12-oss](https://www.frontendmentor.io/profile/ruqiash12-oss)
 - GitHub - [@ruqiash12-oss](https://github.com/ruqiash12-oss)
-- (Optional) Website - (add your website here)
 
 ## Acknowledgments
 
